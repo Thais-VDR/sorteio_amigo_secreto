@@ -1,5 +1,7 @@
 <h1 align="center"> 🎁 Sorteio do Amigo Secreto </h1>
 
+<img width="1865" height="912" alt="image" src="https://github.com/user-attachments/assets/24363652-52b6-4f60-bb0b-37390de37a02" />
+
 ## Descrição
 Um site simples e divertido feito com HTML, CSS e JavaScript, onde pode adicionar amigos a uma lista e sortear os nomes de forma aleátoria.
 
