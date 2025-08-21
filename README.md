@@ -44,8 +44,7 @@ Você pode acessar nesse [repósitorio](https://github.com/Thais-VDR/jogo_amigo_
 - E por fim é só se divertir 🚀
 
 # Autora
-| [<img loading="lazy" src="<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/cc872545-707f-4e32-9c8f-bed1c697c1b7" />
-" width=115><br><sub>Thaís Vitória</sub>](https://github.com/Thais-VDR) |
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/cc872545-707f-4e32-9c8f-bed1c697c1b7" width=115><br><sub>Thaís Vitória</sub>](https://github.com/Thais-VDR) |
 | :---: |
 
 ## License 
