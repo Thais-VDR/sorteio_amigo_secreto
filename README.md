@@ -35,7 +35,7 @@ JavaScript → lógica do sorteio
 
 # 📁 Acesso ao projeto
 
-Você pode acessar nesse [repósitorio](https://github.com/Thais-VDR/jogo_amigo_secreto/).
+Você pode acessar nesse [repósitorio](https://github.com/Thais-VDR/sorteio_amigo_secreto/).
 
 # 🛠️ Abrir e rodar o projeto
 
